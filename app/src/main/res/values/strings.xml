@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check area</string>
+    <string name="result">result</string>
+    <string name="check_result">Check result</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+    <string name="open_two_activity">Open two activity</string>
+</resources>
