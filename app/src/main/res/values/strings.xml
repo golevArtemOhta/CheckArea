@@ -5,4 +5,8 @@
     <string name="y">Y</string>
     <string name="x">X</string>
     <string name="open_two_activity">Open two activity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_shape_area">open shape area</string>
+    <string name="open_rectangle_area">open rectangle area</string>
 </resources>
